@@ -1,0 +1,2 @@
+# ext-1761629403610-edeskxj-platform
+AI-generated project via External API - Prompt: DESIGN ME A COMPLTE STUDENT MANAGE MENTSYSTEM WITH BACKEDN GOOGLE SHEETS
